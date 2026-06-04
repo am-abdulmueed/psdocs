@@ -7,7 +7,7 @@ icon: /static/trakt.png
 # Using Trakt list as Catalogue
 
 !!! warning **Read this before installing**
-The Stremio extension is still experimental. Don't expect a stremio like experience. Most of the public stremio sources are torrent based but cloudstream doesn't support torrent stream. So, none of the popular sources will work here. The below trakt example is link only and it will not play any video. Also, this trakt doesn't sync anything.
+The Stremio extension is still experimental. Don't expect a stremio like experience. Most of the public stremio sources are torrent based but PluginStream doesn't support torrent stream. So, none of the popular sources will work here. The below trakt example is link only and it will not play any video. Also, this trakt doesn't sync anything.
 !!!
 
 [!badge variant="light" text="Step 1"] Install the stremio extension from english repo.

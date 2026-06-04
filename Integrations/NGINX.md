@@ -20,9 +20,9 @@ ___
 
 I used to be a user of [jellyfin](https://jellyfin.org/) because I didn't want to pay for a subscription and I didn't want to use proprietary software just to display files like plex.
 It wasn't working really well and I sometimes wasn't able to play Movies and it semmed to use a lot of ressources
-The solution? Scrape the media files and their metadata using Cloudstream-3
+The solution? Scrape the media files and their metadata using PluginStream
 
-The advantages of this provier over jellyfin are that it's lightweight and integrated with cloudstream
+The advantages of this provier over jellyfin are that it's lightweight and integrated with PluginStream
 
 ___
 **To setup nginx you must have a media server:**
@@ -84,13 +84,13 @@ And enable those settings
 
 ![image](https://user-images.githubusercontent.com/18114966/187868381-0c766ce5-0ab9-4d07-b555-44764665d2f6.png)
 
-If the metadata is not present, the movie / tv show will not be displayed by cloudstream
+If the metadata is not present, the movie / tv show will not be displayed by PluginStream
 
 Now we are ready, if you want to add folders to the http access you can follow the documentation coming from [ultra.cc](https://docs.usbx.me/books/http-access/page/downloading-files-from-your-ultracc-slot-using-http-access)
 
 ___
-### In cloudstream
-Go into the settings of Cloudstream-3 and click the Nginx server url button
+### In PluginStream
+Go into the settings of PluginStream and click the Nginx server url button
 
 Here you need to type the exact url of the http nginx server where you access your files, for exemple https://myusername.myles.usbx.me/
 
@@ -112,4 +112,4 @@ Nginx will now show up in the sources list on the home page
 
 It might say that no url is supplied when starting the application, you can just hit the retry button and it should work fine
 
-That's it, you added nginx to Cloudstream
+That's it, you added nginx to PluginStream

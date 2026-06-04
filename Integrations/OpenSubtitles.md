@@ -11,7 +11,7 @@ icon: /static/osub.png
 ![image](https://user-images.githubusercontent.com/57977673/194716796-c5556b8b-a0b7-4580-9054-f36d1304e545.png)
 
 ___
-## Adding Open Subtitles account in Cloudstream
+## Adding Open Subtitles account in PluginStream
 
 [!badge variant="dark" icon="gear" text="Settings"] → [!badge variant="dark" text="Account"] → [!badge variant="dark" icon="/static/osub.png" text="OpenSubtitles"] → **Login with username and password**
 

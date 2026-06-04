@@ -4,7 +4,7 @@ order: 994
 icon: /static/aniyomi.png
 ---
 
-### Use your Aniyomi Extensions in CloudStream!
+### Use your Aniyomi Extensions in PluginStream!
 Not guaranteed to work perfectly. Please make an issue if any functional extension does not work with this system.
 
 Add this repository using this shortcode: [anicompat](https://raw.githubusercontent.com/CranberrySoup/AniyomiCompatExtension/master/repo.json)
@@ -15,7 +15,7 @@ Add this repository using this shortcode: [anicompat](https://raw.githubusercont
 
 ### Installation
 
-Install the extension in CloudStream. The extension should then download the internal compat APK automatically. Once the installation is complete your Aniyomi extensions should appear in CloudStream.
+Install the extension in PluginStream. The extension should then download the internal compat APK automatically. Once the installation is complete your Aniyomi extensions should appear in PluginStream.
 
 Installing this plugin does __not__ automatically download all Aniyomi extensions, you still need to get those from Aniyomi.
 
@@ -38,5 +38,5 @@ You can find the list of all Aniyomi extensions [here](https://aniyomi.org/exten
 
 1. Make sure the extension is functioning in Aniyomi.
 2. Try downloading the compat APK instead of using it internally. Download [here](https://github.com/CranberrySoup/AniyomiCompat/raw/builds/app-debug.apk) or click Install APK externally in plugin settings.
-3. Restart CloudStream
+3. Restart PluginStream
 4. Make an issue here if it still does not work

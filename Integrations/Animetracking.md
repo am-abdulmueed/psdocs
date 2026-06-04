@@ -15,7 +15,7 @@ ___
 
 [!badge variant="light" text="Step 1"] [!badge variant="dark" icon="gear" text="Settings"] → [!badge variant="dark" icon="" text="Accounts"] → **Choose AL, Kitsu or MAL**. For this guide we are choosing AL.
 
-[!badge variant="light" text="Step 2"] The app will forward to the default browser to login. Now **Login and authorize** the app. The site will return you the cloudstream app.
+[!badge variant="light" text="Step 2"] The app will forward to the default browser to login. Now **Login and authorize** the app. The site will return you the PluginStream app.
 
 !!! info
 If the log in process is successful, you will see a pop text and there will be your profile picture at the top right section of the home and the settings page.

@@ -6,7 +6,7 @@ order: 1000
 
 # For extension developers
 
-This section will outline how to start developing your own extensions for Cloudstream.
+This section will outline how to start developing your own extensions for PluginStream.
 
 [!badge variant="light" text="Step 1"] [Using plugin template](/devs/using-plugin-template.md)
 

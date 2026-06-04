@@ -6,10 +6,10 @@ icon: /static/tv.svg
 
 # Installation on TV
 
-## Installing CS3
+## Installing PluginStream
 
 !!!light
-You can follow the [!badge variant="secondary" text="Standard Setup Process"](/index.md/#standard-setup) here too. But if your TV browser isn't working, follow these methods to install cloudstream.
+You can follow the [!badge variant="secondary" text="Standard Setup Process"](/index.md/#standard-setup) here too. But if your TV browser isn't working, follow these methods to install PluginStream.
 !!!
 
 ==- Method 1: Using URL Shortener code
@@ -40,7 +40,7 @@ You can follow the [!badge variant="secondary" text="Standard Setup Process"](/i
 
 [!badge variant="light" text="Step 3"] Once the timer is up, click **install** on the popup
 
-[!badge variant="light" text="Step 4"] Click **install once again** to install Cloudstream
+[!badge variant="light" text="Step 4"] Click **install once again** to install PluginStream
 
 [!badge variant="light" text="Step 5"] Click Launch
 
@@ -52,7 +52,7 @@ You can follow the [!badge variant="secondary" text="Standard Setup Process"](/i
 !!!warning Before starting the process
 [!badge variant="light" text="Step 1"] Download [Send Files to Tv](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv) on **both tv and mobile device.**
 
-[!badge variant="light" text="Step 2"] Download cs3 [!badge variant="primary" icon="/static/stable.png" text="Stable"](https://github.com/recloudstream/cloudstream/releases/latest) or [!badge variant="danger" icon="/static/pre.png" text="Pre-release"](https://github.com/recloudstream/cloudstream/releases/pre-release) in mobile
+[!badge variant="light" text="Step 2"] Download PluginStream [!badge variant="primary" icon="device-mobile" text="Phone"](https://github.com/am-abdulmueed/pluginstream/releases/latest/download/pluginstream.apk) or [!badge variant="info" icon="device-desktop" text="TV"](https://github.com/am-abdulmueed/pluginstream/releases/latest/download/pluginstream-tv.apk) in mobile
 
 [!badge variant="light" text="Step 3"] Connect both devices to same Wi-Fi
 !!!

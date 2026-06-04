@@ -4,37 +4,36 @@ url: https://docs.cloudstream.cf/
 branding:
   logo: static/inas.png
   logoDark: /static/base.png
-  title: CS3Docs
-  label: 
+  title: PluginStream Docs
+  label: v5.1.2
 
 meta:
-  title: " - Cloudstream 3 Documentation"
+  title: " - PluginStream Documentation"
 
 edit:
-  repo: "https://github.com/recloudstream/csdocs/edit/"
+  repo: "https://github.com/am-abdulmueed/psdocs/edit/"
   branch: master
 
 links:
+  - text: Download Phone
+    link: https://github.com/am-abdulmueed/pluginstream/releases/latest/download/pluginstream.apk
+    icon: device-mobile
+
+  - text: Download TV
+    link: https://github.com/am-abdulmueed/pluginstream/releases/latest/download/pluginstream-tv.apk
+    icon: device-desktop
+
   - text: Github
-    link: https://github.com/recloudstream/cloudstream/
+    link: https://github.com/am-abdulmueed/pluginstream/
     icon: /static/github.png
 
-  - text: Gitdab
-    link: https://gitdab.com/recloudstream
-    icon: /static/gitdab.png
-
-  - text: Discord
-    link: https://discord.com/invite/5Hus6fM
-    icon: /static/discord.png
-    target: blank
-
-  - text: Matrix
-    link: https://matrix.to/#/#lagrapps:matrix.org
-    icon: /static/matrix.png
+  - text: Telegram
+    link: https://t.me/pluginstreamofficial
+    icon: /static/telegram.png
     target: blank
 
 footer:
   links:
-    - text: Website by Duckling
-      link: https://github.com/anotherduckling
-  copyright: ""
+    - text: Website by Abdul Mueed
+      link: https://github.com/am-abdulmueed
+  copyright: "&copy; 2026-Present PluginStream"

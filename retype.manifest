@@ -1,0 +1,441 @@
+{
+  "version": "4.6.0",
+  "created": "2026-06-04T09:33:30Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "devs\\create-your-own-json-repository.md"
+    },
+    {
+      "path": "devs\\create-your-own-json-repository\\index.html"
+    },
+    {
+      "path": "devs\\create-your-own-providers.md"
+    },
+    {
+      "path": "devs\\create-your-own-providers\\index.html"
+    },
+    {
+      "path": "devs\\gettingstarted.md"
+    },
+    {
+      "path": "devs\\gettingstarted\\index.html"
+    },
+    {
+      "path": "devs\\scraping\\devtools_detectors.md"
+    },
+    {
+      "path": "devs\\scraping\\devtools_detectors\\index.html"
+    },
+    {
+      "path": "devs\\scraping\\disguising_your_scraper.md"
+    },
+    {
+      "path": "devs\\scraping\\disguising_your_scraper\\index.html"
+    },
+    {
+      "path": "devs\\scraping\\finding_video_links.md"
+    },
+    {
+      "path": "devs\\scraping\\finding_video_links\\index.html"
+    },
+    {
+      "path": "devs\\scraping\\gettingstarted.md"
+    },
+    {
+      "path": "devs\\scraping\\gettingstarted\\index.html"
+    },
+    {
+      "path": "devs\\scraping\\starting.md"
+    },
+    {
+      "path": "devs\\scraping\\starting\\index.html"
+    },
+    {
+      "path": "devs\\scraping\\using_apis.md"
+    },
+    {
+      "path": "devs\\scraping\\using_apis\\index.html"
+    },
+    {
+      "path": "devs\\using-plugin-template.md"
+    },
+    {
+      "path": "devs\\using-plugin-template\\index.html"
+    },
+    {
+      "path": "favicon.ico"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "index.md"
+    },
+    {
+      "path": "integrations\\animetracking.md"
+    },
+    {
+      "path": "integrations\\animetracking\\index.html"
+    },
+    {
+      "path": "integrations\\aniyomi.md"
+    },
+    {
+      "path": "integrations\\aniyomi\\index.html"
+    },
+    {
+      "path": "integrations\\externalplayer.md"
+    },
+    {
+      "path": "integrations\\externalplayer\\index.html"
+    },
+    {
+      "path": "integrations\\nginx.md"
+    },
+    {
+      "path": "integrations\\nginx\\index.html"
+    },
+    {
+      "path": "integrations\\opensubtitles.md"
+    },
+    {
+      "path": "integrations\\opensubtitles\\index.html"
+    },
+    {
+      "path": "integrations\\stemiorelated.md"
+    },
+    {
+      "path": "integrations\\stemiorelated\\index.html"
+    },
+    {
+      "path": "integrations\\tarktlist.md"
+    },
+    {
+      "path": "integrations\\tarktlist\\index.html"
+    },
+    {
+      "path": "llms.txt"
+    },
+    {
+      "path": "more-stuff\\audioquality.md"
+    },
+    {
+      "path": "more-stuff\\audioquality\\index.html"
+    },
+    {
+      "path": "more-stuff\\miscellaneous.md"
+    },
+    {
+      "path": "more-stuff\\miscellaneous\\index.html"
+    },
+    {
+      "path": "more-stuff\\videoquality.md"
+    },
+    {
+      "path": "more-stuff\\videoquality\\index.html"
+    },
+    {
+      "path": "more-stuff\\vpn.md"
+    },
+    {
+      "path": "more-stuff\\vpn\\index.html"
+    },
+    {
+      "path": "other-devices\\linux.md"
+    },
+    {
+      "path": "other-devices\\linux\\index.html"
+    },
+    {
+      "path": "other-devices\\tv.md"
+    },
+    {
+      "path": "other-devices\\tv\\index.html"
+    },
+    {
+      "path": "other-devices\\windows.md"
+    },
+    {
+      "path": "other-devices\\windows\\index.html"
+    },
+    {
+      "path": "recapps.md"
+    },
+    {
+      "path": "recapps\\index.html"
+    },
+    {
+      "path": "repositories.md"
+    },
+    {
+      "path": "repositories\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\instagram.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\prism.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "settings\\cloningsite.md"
+    },
+    {
+      "path": "settings\\cloningsite\\index.html"
+    },
+    {
+      "path": "settings\\downloading.md"
+    },
+    {
+      "path": "settings\\downloading\\index.html"
+    },
+    {
+      "path": "settings\\othersettings.md"
+    },
+    {
+      "path": "settings\\othersettings\\index.html"
+    },
+    {
+      "path": "settings\\srcpriority.md"
+    },
+    {
+      "path": "settings\\srcpriority\\index.html"
+    },
+    {
+      "path": "settings\\stream.md"
+    },
+    {
+      "path": "settings\\stream\\index.html"
+    },
+    {
+      "path": "settings\\subtitle.md"
+    },
+    {
+      "path": "settings\\subtitle\\index.html"
+    },
+    {
+      "path": "sitemap.xml"
+    },
+    {
+      "path": "static\\18p.png"
+    },
+    {
+      "path": "static\\1dm.png"
+    },
+    {
+      "path": "static\\aniyomi.png"
+    },
+    {
+      "path": "static\\api.png"
+    },
+    {
+      "path": "static\\base.png"
+    },
+    {
+      "path": "static\\base.svg"
+    },
+    {
+      "path": "static\\cn.png"
+    },
+    {
+      "path": "static\\cover.png"
+    },
+    {
+      "path": "static\\cr.png"
+    },
+    {
+      "path": "static\\cringe.png"
+    },
+    {
+      "path": "static\\discord.png"
+    },
+    {
+      "path": "static\\es.png"
+    },
+    {
+      "path": "static\\fdm.png"
+    },
+    {
+      "path": "static\\folder.png"
+    },
+    {
+      "path": "static\\fr.png"
+    },
+    {
+      "path": "static\\gb.png"
+    },
+    {
+      "path": "static\\gear.png"
+    },
+    {
+      "path": "static\\getsub.png"
+    },
+    {
+      "path": "static\\gitdab.png"
+    },
+    {
+      "path": "static\\gitdab.svg"
+    },
+    {
+      "path": "static\\github.png"
+    },
+    {
+      "path": "static\\in.png"
+    },
+    {
+      "path": "static\\inas.png"
+    },
+    {
+      "path": "static\\incognito.png"
+    },
+    {
+      "path": "static\\jo.png"
+    },
+    {
+      "path": "static\\json.png"
+    },
+    {
+      "path": "static\\linux.svg"
+    },
+    {
+      "path": "static\\matrix.png"
+    },
+    {
+      "path": "static\\mpv.png"
+    },
+    {
+      "path": "static\\navi.png"
+    },
+    {
+      "path": "static\\nginx.png"
+    },
+    {
+      "path": "static\\osub.png"
+    },
+    {
+      "path": "static\\plugin.png"
+    },
+    {
+      "path": "static\\pre.png"
+    },
+    {
+      "path": "static\\pre.svg"
+    },
+    {
+      "path": "static\\proton.png"
+    },
+    {
+      "path": "static\\scraper.png"
+    },
+    {
+      "path": "static\\settings.svg"
+    },
+    {
+      "path": "static\\stable.png"
+    },
+    {
+      "path": "static\\stremio.png"
+    },
+    {
+      "path": "static\\sub.png"
+    },
+    {
+      "path": "static\\telegram.png"
+    },
+    {
+      "path": "static\\tool.png"
+    },
+    {
+      "path": "static\\tr.png"
+    },
+    {
+      "path": "static\\trakt.png"
+    },
+    {
+      "path": "static\\tv.svg"
+    },
+    {
+      "path": "static\\ua.png"
+    },
+    {
+      "path": "static\\vlc.png"
+    },
+    {
+      "path": "static\\warp.png"
+    },
+    {
+      "path": "static\\waydroid.png"
+    },
+    {
+      "path": "static\\win10.svg"
+    },
+    {
+      "path": "static\\win11.png"
+    },
+    {
+      "path": "static\\win11.svg"
+    },
+    {
+      "path": "static\\wind.png"
+    },
+    {
+      "path": "static\\world.png"
+    },
+    {
+      "path": "static\\wvc.png"
+    },
+    {
+      "path": "troubleshooting.md"
+    },
+    {
+      "path": "troubleshooting\\index.html"
+    }
+  ]
+}

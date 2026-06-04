@@ -6,7 +6,7 @@ icon: repo
 
 # Creating your own Providers
 
-Providers in CloudStream consists primarily of 4 different parts:
+Providers in PluginStream consists primarily of 4 different parts:
 
 - [Searching](https://recloudstream.github.io/dokka/library/com.lagradost.cloudstream3/-main-a-p-i/index.html#498495168%2FFunctions%2F-449184558)
 - [Loading the home page](https://recloudstream.github.io/dokka/library/com.lagradost.cloudstream3/-main-a-p-i/index.html#1356482668%2FFunctions%2F-449184558)
@@ -146,7 +146,7 @@ TLDR: Exactly like searching but you defined your own queries.
 The media result page is a bit more complex than search results, but it uses the same logic used to get search results: using CSS selectors and regex to parse html into a kotlin object. With the amount of info being parsed this function can get quite big, but the fundamentals are still pretty simple.
 The only difficultuy is getting the episodes, they are not always not part of the html. Check if any extra requests are sent in your browser when visiting the episodes page.
 
-**NOTE**: Episodes in CloudStream are not paginated, meaning that if you have a show with 21 seasons, all on different website pages you will need to parse them all. 
+**NOTE**: Episodes in PluginStream are not paginated, meaning that if you have a show with 21 seasons, all on different website pages you will need to parse them all. 
 
 A function can look something like this:
 

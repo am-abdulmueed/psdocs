@@ -6,7 +6,7 @@ icon: /static/json.png
 
 # Creating your own JSON repository
 
-Cloudstream uses JSON files to fetch and parse lists of repositories. You can create one following this template:
+PluginStream uses JSON files to fetch and parse lists of repositories. You can create one following this template:
 ```json
 {
   "name": "<repository name>",

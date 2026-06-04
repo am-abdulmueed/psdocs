@@ -22,4 +22,4 @@ If you do not know programming at all then this guide will __not__ help you, lea
 
 [!badge variant="light" text="Step 4"] [Finding links and scraping videos](finding_video_links)
 
-Once you've read and understood the concepts behind scraping take a look at [a provider for CloudStream](https://github.com/recloudstream/cloudstream-extensions/blob/master/VidstreamBundle/src/main/kotlin/com/lagradost/VidEmbedProvider.kt#L4). I added tons of comments to make every aspect of writing CloudStream providers clear. Even if you're not planning on contributing to Cloudstream looking at the code may help
+Once you've read and understood the concepts behind scraping take a look at [a provider for PluginStream](https://github.com/recloudstream/cloudstream-extensions/blob/master/VidstreamBundle/src/main/kotlin/com/lagradost/VidEmbedProvider.kt#L4). I added tons of comments to make every aspect of writing PluginStream providers clear. Even if you're not planning on contributing to PluginStream looking at the code may help
