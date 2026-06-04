@@ -1,6 +1,6 @@
 input: 
 output: build
-url: https://docs.cloudstream.cf/
+url: https://pluginstreamapp.pages.dev/
 branding:
   logo: static/inas.png
   logoDark: /static/base.png
@@ -9,6 +9,7 @@ branding:
 
 meta:
   title: " - PluginStream Documentation"
+  description: "Download PluginStream APK latest version 2026. Stream Netflix, Prime, Disney+, HBO & YouTube Premium for free. Get 100+ powerful plugins for fast, secure movie streaming on Android and PC."
 
 edit:
   repo: "https://github.com/am-abdulmueed/psdocs/edit/"

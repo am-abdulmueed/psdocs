@@ -1,0 +1,18 @@
+# Downloading From PluginStream
+
+==- Change the download location
+
+[!badge variant="dark" icon="/static/base.png" text="PluginStream"] → [!badge variant="dark" icon="/static/gear.png" text="Settings"] → [!badge variant="dark"  text="General"] → [!badge variant="dark" icon="download" text="download path"] and then select a custom location.
+
+===
+==- Change video quality or source
+
+[!embed](https://www.youtube-nocookie.com/embed/vMpZEnAZhcY)
+
+===
+==- External Downloading
+
+You can download from any source without any issue using 1DM. Max the Number of connections to get the best download speed.
+
+[!embed](https://www.youtube-nocookie.com/embed/eGbHbzyIsio)
+===

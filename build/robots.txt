@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pluginstreamapp.pages.dev/sitemap.xml

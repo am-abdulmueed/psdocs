@@ -1,10 +1,3 @@
----
-label: PluginStream Setup
-icon: /static/base.png
-meta:
-  description: "Official guide to setup PluginStream. Stream all OTT platforms, enjoy ad-free gaming, YouTube Premium, and YouTube Music for free."
-  keywords: [pluginstream, streaming all ott, gaming, youtube, youtube music, ott, ad-free streaming, cloudstream]
----
 # Getting Started
 
 PluginStream is an Android application for streaming and downloading movies, TV series, anime, Asian content and livestreams. The app provides all this content ad-free, without any sign-up or subscription requirements.

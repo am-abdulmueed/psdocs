@@ -1,0 +1,56 @@
+﻿#  - PluginStream Documentation
+
+> Download PluginStream APK latest version 2026. Stream Netflix, Prime, Disney+, HBO & YouTube Premium for free. Get 100+ powerful plugins for fast, secure movie streaming on Android and PC.
+
+- [Getting Started](https://pluginstreamapp.pages.dev/index.md): Getting Started
+- [Repositories](https://pluginstreamapp.pages.dev/repositories.md): See the PluginStream Wiki page for an up to date list of extensions
+- [Recommended Apps](https://pluginstreamapp.pages.dev/recapps.md)
+- [Troubleshooting](https://pluginstreamapp.pages.dev/troubleshooting.md): If the repositories are not loading in the official site or in the section, repeat the process using VPN connection.
+
+## Other devices
+
+- [Installation on TV](https://pluginstreamapp.pages.dev/other-devices/tv.md): You can follow the here too. But if your TV browser isn't working, follow these methods to install PluginStream.
+- [WSA Installation Guide](https://pluginstreamapp.pages.dev/other-devices/windows.md): Rooted Android 13
+- [Emulation on Linux](https://pluginstreamapp.pages.dev/other-devices/linux.md): Waydroid currently works best with Intel GPUs. They should work out of the box.
+
+## Settings
+
+- [Source priority](https://pluginstreamapp.pages.dev/settings/srcpriority.md): Now you can customize the order of all video sources, but it is a bit complex. Each quality and source now has a priority. This means that you can for example make your favorite quality or any videos from your favorite source always appear first.
+- [Downloading From PluginStream](https://pluginstreamapp.pages.dev/settings/downloading.md): → → → and then select a custom location.
+- [FAQ on Subtitles](https://pluginstreamapp.pages.dev/settings/subtitle.md): → →
+- [Site Cloning](https://pluginstreamapp.pages.dev/settings/cloningsite.md): If the site in the app is blocked for your region, you can make a clone of that site using a site of same structure which is working for you. You can't clone a site of different structure.
+- [Network Stream](https://pluginstreamapp.pages.dev/settings/stream.md): Stream from the sources that doesn't support stream/ not in PluginStream
+- [Other Settings](https://pluginstreamapp.pages.dev/settings/othersettings.md): → → → and apply your wanted filter.
+
+## Integrations
+
+- [Open Subtitles FAQ](https://pluginstreamapp.pages.dev/integrations/opensubtitles.md): Go here and create an account. image
+- [External player](https://pluginstreamapp.pages.dev/integrations/externalplayer.md): → → Press and hold the epsiode →
+- [Anime tracking FAQ](https://pluginstreamapp.pages.dev/integrations/animetracking.md): Anime tracking process works with only anime extensions. So, it'll not work with extensions like superstream, sflix, loklok etc. Some anime extensions might also not work with the tracking process as the sources don't contain all the required metadata.
+- [NGINX Setup](https://pluginstreamapp.pages.dev/integrations/nginx.md): It's a free and open source software, it's really powerful but here we will only use it to display files on a simple web interface. The files we are using
+- [Stremio addon](https://pluginstreamapp.pages.dev/integrations/stemiorelated.md): The Stremio extension is still experimental. Don't expect a stremio like experience. You can add sources in PluginStream using this method, but it'll be only for catalogue.
+- [Using Trakt list as Catalogue](https://pluginstreamapp.pages.dev/integrations/tarktlist.md): The Stremio extension is still experimental. Don't expect a stremio like experience. Most of the public stremio sources are torrent based but PluginStream doesn't support torrent stream.
+- [Aniyomi](https://pluginstreamapp.pages.dev/integrations/aniyomi.md): Not guaranteed to work perfectly. Please make an issue if any functional extension does not work with this system.
+
+## More Stuff
+
+- [VPN](https://pluginstreamapp.pages.dev/more-stuff/vpn.md): This is the one of the safest options. Like mullvad, surfshark, nord etc. Before purchasing the subscription, please see if the owner of the vpn provider is trustable.
+- [Video Quality Tags](https://pluginstreamapp.pages.dev/more-stuff/videoquality.md): x264 and x265 are both video codecs that are used for compressing video files. They are both open-source and are widely supported by various media players and devices.
+- [Audio Quality Tags](https://pluginstreamapp.pages.dev/more-stuff/audioquality.md): AAC 2.0, or Advanced Audio Coding 2.0, is a type of audio codec that is designed to compress audio files with minimal loss of quality. It is commonly used for streaming and online music services, and it is supported by most media players and devices.
+- [Miscellaneous](https://pluginstreamapp.pages.dev/more-stuff/miscellaneous.md): Repository: Contains all the extensions/sites.
+
+## For extension developers
+
+- [For extension developers](https://pluginstreamapp.pages.dev/devs/gettingstarted.md): This section will outline how to start developing your own extensions for PluginStream.
+- [Using the template](https://pluginstreamapp.pages.dev/devs/using-plugin-template.md): The easiest way to start developing is to fork our Test Plugins.
+- [Creating your own Providers](https://pluginstreamapp.pages.dev/devs/create-your-own-providers.md): Providers in PluginStream consists primarily of 4 different parts:
+- [Creating your own JSON repository](https://pluginstreamapp.pages.dev/devs/create-your-own-json-repository.md): PluginStream uses JSON files to fetch and parse lists of repositories. You can create one following this template:
+
+### Scraping
+
+- [Requests based scraping tutorial](https://pluginstreamapp.pages.dev/devs/scraping/gettingstarted.md): You want to start scraping? Well this guide will teach you, and not some baby selenium scraping. This guide only uses raw requests and has examples in both python and kotlin.
+- [1. Scraping the Readme](https://pluginstreamapp.pages.dev/devs/scraping/starting.md): Scraping is just downloading a webpage and getting the wanted information from it. As a start, you can scrape the README.md
+- [Using APIs](https://pluginstreamapp.pages.dev/devs/scraping/using_apis.md): Whilst scraping a site is always a nice option, using it's API is way better. And sometimes its the only way (eg: the site uses its API to load the content, so scraping doesn't work).
+- [How are they detecting the tools?](https://pluginstreamapp.pages.dev/devs/scraping/devtools_detectors.md): TL;DR: You are going to get fucked by sites detecting your devtools, the easiest bypass for this is using a web sniffer extension
+- [Disguishing your scrapers](https://pluginstreamapp.pages.dev/devs/scraping/disguising_your_scraper.md): It obliterates ads and hence, blocks the site revenue.
+- [Finding video links](https://pluginstreamapp.pages.dev/devs/scraping/finding_video_links.md): Now you know the basics, enough to scrape most stuff from most sites, but not streaming sites. Because of the high costs of video hosting the video providers really don't want anyone scraping the video and bypassing the ads.
